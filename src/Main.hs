@@ -7,4 +7,4 @@ import Moto
 
 
 main :: IO()
-main = display janela backgroundC quadrado
+main = display janela backgroundC quadrado(20 Point(0.0 0.0))
