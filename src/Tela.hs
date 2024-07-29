@@ -22,7 +22,7 @@ n :: Int
 n = 15
 -- Função para desenhar as linhas da grade
 drawGrid :: Picture
-drawGrid =pictures
+drawGrid = pictures
   $ concatMap (\i -> [ line [ (i * cellWidth, 0.0)
                              , (i * cellWidth, fromIntegral 480)
                              ]
