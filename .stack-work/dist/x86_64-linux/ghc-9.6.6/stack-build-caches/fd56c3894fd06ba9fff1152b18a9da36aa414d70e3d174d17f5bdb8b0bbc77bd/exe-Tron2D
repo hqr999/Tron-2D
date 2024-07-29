@@ -5,4 +5,8 @@
 /home/henriqueqr/Documentos/Codigos/Haskell/Tron2D/Tron2D.cabal:
   hash: 564ef58c2462dfe369fb63ee53bd2bb84495e8f21ac744ccc5c5eef66f2072cd
 /home/henriqueqr/Documentos/Codigos/Haskell/Tron2D/src/Main.hs:
-  hash: 92ed6a054dcf4f409df00cbba595c8ed2986a9ccce009625a5a4dfd3b03b4841
+  hash: 5c4ba929f394874d880b4670996245d282c663c6ac454d41901321c9b2e68f2b
+/home/henriqueqr/Documentos/Codigos/Haskell/Tron2D/src/Moto.hs:
+  hash: 5f4aae7a252ebc8efeff3da301aac1527370a8948bd58da05ca8fe234a7d3273
+/home/henriqueqr/Documentos/Codigos/Haskell/Tron2D/src/Tela.hs:
+  hash: 61188385c4778413c1e03ea858346c6668f5e10337c352313d90f0fecd7332f3

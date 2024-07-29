@@ -4,7 +4,7 @@ module Tela(janela,backgroundC,drawGrid,centraliza) where
 import Graphics.Gloss
 
 
---Fazendo a tela inicial do jogo
+--Fazendo a tela inicial do jogo--
 janela :: Display
 janela = InWindow "Tron 2D" (640,480) (10,10)
 
@@ -20,7 +20,7 @@ cellHeight = fromIntegral 480 / fromIntegral n
 
 n :: Int
 n = 15
--- Função para desenhar as linhas da grade
+-- Função para desenhar as linhas da grade--
 drawGrid :: Picture
 drawGrid = pictures
   $ concatMap (\i -> [ line [ (i * cellWidth, 0.0)
